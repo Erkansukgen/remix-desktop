@@ -94,7 +94,7 @@
     "electron-app-manager": "EthereumRemix/electron-app-manager#remix-dep",
     "fs-extra": "^3.0.1",
     "latest-version": "^5.1.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.2",
     "semver": "^7.3.5",
     "fix-path": "3.0.0"
   }
