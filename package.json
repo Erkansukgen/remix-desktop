@@ -96,6 +96,6 @@
     "latest-version": "^5.1.0",
     "node-fetch": "^2.6.1",
     "semver": "^7.3.5",
-    "fix-path": "3.0.0"
+    "fix-path": "4.0.0"
   }
 }
